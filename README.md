@@ -18,7 +18,7 @@ The test set should be used to see how well your model performs on unseen data. 
 4.scikit-learn
 5.numpy
 ## Algorithms
-1.Logistic Regression(Accuracy:78%)
+**1.Logistic Regression(Accuracy:78%)
 2.kNeighbour Classifier(Accuracy:75%)
 3.Decision Tree(Accuracy:75%)
 4.Random Forest(Accuracy:81%)
