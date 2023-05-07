@@ -8,30 +8,19 @@ The training set should be used to build your machine learning models. For the t
 
 The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
 
-We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
+**Download link: https://www.kaggle.com/c/titanic/data**
 
-Variable	Definition	Key
-survival	Survival	0 = No, 1 = Yes
-pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
-sex	Sex	
-Age	Age in years	
-sibsp	# of siblings / spouses aboard the Titanic	
-parch	# of parents / children aboard the Titanic	
-ticket	Ticket number	
-fare	Passenger fare	
-cabin	Cabin number	
-embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
-Download link: https://www.kaggle.com/c/titanic/data
 
-Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
-Algorithms
-Logistic Regression(Accuracy:78%)
-kNeighbour Classifier(Accuracy:75%)
-Decision Tree(Accuracy:75%)
-Random Forest(Accuracy:81%)
-Extra Tress(Accuracy:76%)
+## Libraries
+1.pandas
+2.matplotlib
+3.seaborn
+4.scikit-learn
+5.numpy
+## Algorithms
+1.Logistic Regression(Accuracy:78%)
+2.kNeighbour Classifier(Accuracy:75%)
+3.Decision Tree(Accuracy:75%)
+4.Random Forest(Accuracy:81%)
+5.Extra Tress(Accuracy:76%)**
  
